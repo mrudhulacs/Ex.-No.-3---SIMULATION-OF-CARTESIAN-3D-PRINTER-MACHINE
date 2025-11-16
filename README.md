@@ -60,8 +60,15 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+
+<img width="1918" height="1044" alt="image" src="https://github.com/user-attachments/assets/5dc0b6a3-63b7-428d-9ec4-a4cecff604e1" />
+
+
+
+### Name : CHITTOOR SARAVANA MRUDHULA 
+### Register Number : 212224040056
 
 ## Result: 
+
+
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
